@@ -2,4 +2,3 @@
 
 Hi, I'm @mmartinbarr and I'm using this repo as a sandbox to test stuff
 
-{% include diagram.md %}
